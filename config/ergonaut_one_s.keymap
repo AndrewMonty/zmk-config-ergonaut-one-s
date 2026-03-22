@@ -92,7 +92,7 @@
 &kp TAB           &kp Q  &kp W  &kp E         &kp R  &trans     &trans  &trans  &trans  &trans
 &kp LSHFT         &kp A  &kp S  &kp D         &kp F  &trans     &trans  &trans  &trans  &trans
 &kp LEFT_CONTROL  &kp Z  &kp S  &kp C         &kp V  &trans     &trans  &trans  &trans  &trans
-                                &kp LEFT_ALT  &mo 5  &kp SPACE  &trans  &trans  &mo 3
+                                &kp LEFT_ALT  &mo 5  &kp SPACE  &trans  &trans  &to 0
             >;
         };
 
@@ -102,7 +102,7 @@
 &kp ESC  &kp N1  &kp N2  &kp N3  &kp T   &trans  &trans  &trans  &trans  &trans
 &trans   &kp N4  &kp N5  &kp N6  &kp G   &trans  &trans  &trans  &trans  &trans
 &trans   &kp N7  &kp N8  &kp N9  &kp B   &trans  &trans  &trans  &trans  &trans
-                         &trans  &trans  &trans  &trans  &trans  &tog 4
+                         &trans  &trans  &trans  &trans  &trans  &to 0
             >;
         };
     };
